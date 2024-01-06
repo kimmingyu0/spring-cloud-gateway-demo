@@ -1,4 +1,4 @@
-package com.gatewayserver;
+/* package com.gatewayserver;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.cloud.gateway.route.RouteLocator;
@@ -25,4 +25,4 @@ public class FilterConfig {
                         .uri("http://localhost:8082"))
                 .build();
     }
-}
+} */
