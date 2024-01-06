@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-micro-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-micro-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-micro-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/second-micro-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-gateway-demo.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-gateway-demo.iml" />
     </modules>
   </component>
